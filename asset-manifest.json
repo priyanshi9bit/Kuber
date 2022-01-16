@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kuber/static/css/main.9e0e5ebb.css",
+    "main.js": "/kuber/static/js/main.5098c870.js",
+    "static/js/787.456208d1.chunk.js": "/kuber/static/js/787.456208d1.chunk.js",
+    "index.html": "/kuber/index.html",
+    "main.9e0e5ebb.css.map": "/kuber/static/css/main.9e0e5ebb.css.map",
+    "main.5098c870.js.map": "/kuber/static/js/main.5098c870.js.map",
+    "787.456208d1.chunk.js.map": "/kuber/static/js/787.456208d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0e5ebb.css",
+    "static/js/main.5098c870.js"
+  ]
+}
